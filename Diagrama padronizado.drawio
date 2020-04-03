@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-03T17:40:27.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="KvyHcesJKOpN0zhcKTyS" version="12.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-03T17:47:29.908Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="d_nbTCyQXe08c4ksYAsQ" version="12.9.7" type="github">
   <diagram id="VvqGy8qrrSqzTx67XHq5" name="Página-1">
     <mxGraphModel dx="3716" dy="2324" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -362,6 +362,18 @@
         </mxCell>
         <mxCell id="B-iLm0BFsteS3RUChE8H-25" value="(1,n)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1160" y="193.00000000000006" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l9SpOkN2hiamrLaSnfkf-3" value="(1,n)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-995" y="510.15999999999997" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l9SpOkN2hiamrLaSnfkf-4" value="(1,n)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-950" y="587.84" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l9SpOkN2hiamrLaSnfkf-5" value="(1,n)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-776" y="422" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l9SpOkN2hiamrLaSnfkf-6" value="(1,n)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-835" y="422" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
