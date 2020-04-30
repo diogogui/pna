@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-04-30T12:33:08.047Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="SitZHMOESKqQkyhgd1On" version="13.0.3" type="github">
+<mxfile host="www.draw.io" modified="2020-04-30T19:27:43.346Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="SI5Rl6SjVklRcs8d357E" version="13.0.3" type="github">
   <diagram id="VvqGy8qrrSqzTx67XHq5" name="Página-1">
-    <mxGraphModel dx="5895" dy="2436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4780" dy="1688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IHVAyDiuJe2hWlR-bfKC-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;Usuario&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Id&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;nome&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;cpf&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;email&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;data_nascimento&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#E6FFCC;fontColor=#003366" parent="1" vertex="1">
-          <mxGeometry x="-1610" y="119.82" width="160" height="190" as="geometry" />
+          <mxGeometry x="-1610" y="116.82" width="160" height="190" as="geometry" />
         </mxCell>
         <mxCell id="EOUui1STvaZI3Tl_cS6o-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IHVAyDiuJe2hWlR-bfKC-2" target="IHVAyDiuJe2hWlR-bfKC-7" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -256,14 +256,15 @@
         <mxCell id="S3335GlJZNiLPeRAQWJQ-48" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;Sinapro&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;id&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;veiculo_id (Fk)&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;genero_id (Fk)&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;&lt;span&gt;tipo_anuncio_id (Fk)&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;valores_id (FK)&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;observacao&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#E6FFCC;fontColor=#003366" parent="1" vertex="1">
           <mxGeometry x="85" y="125.18" width="160" height="189.82" as="geometry" />
         </mxCell>
-        <mxCell id="WhOzTlHTxzWWwduuOuLB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Db5_0AzRxlFm09WnYyrj-10" target="IHVAyDiuJe2hWlR-bfKC-46" edge="1">
+        <mxCell id="WhOzTlHTxzWWwduuOuLB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-270" y="100" as="targetPoint" />
+            <mxPoint x="-330" y="123" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-260" y="-235" />
-              <mxPoint x="-260" y="80" />
-              <mxPoint x="-330" y="80" />
+              <mxPoint x="-260" y="-237" />
+              <mxPoint x="-260" y="78" />
+              <mxPoint x="-330" y="78" />
             </Array>
+            <mxPoint x="-290" y="-237" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Db5_0AzRxlFm09WnYyrj-10" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;base_calculo&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Id&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;programacao_id (Fk)&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;preco&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;numero_colunas&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#E6FFCC;fontColor=#003366" parent="1" vertex="1">
@@ -343,7 +344,7 @@
         <mxCell id="IHVAyDiuJe2hWlR-bfKC-7" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;Veiculo*&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Id&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;empresa_id (Fk)&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;veiculo_categoria_id (Fk)&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;usuario_empresa_id (FK)&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#E6FFCC;fontColor=#003366" parent="1" vertex="1">
           <mxGeometry x="-735" y="120" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="IHVAyDiuJe2hWlR-bfKC-72" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;Tabela_Conversoes&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;id&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;base_tempo_id (FK) as&amp;nbsp;&lt;span&gt;tempo_a&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;percentual&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;base_tempo_id (FK) as tempo_b&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;veiculo_id (FK)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#B9E0A5;shadow=1;fillColor=#E6FFCC;fontColor=#003366" parent="1" vertex="1">
+        <mxCell id="IHVAyDiuJe2hWlR-bfKC-72" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;Tabela_Conversoes&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;id&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;base_tempo_id (FK) as&amp;nbsp;&lt;span&gt;tempo_a&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;base_tempo_id (FK) as tempo_b&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;percentual&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;veiculo_id (FK)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#B9E0A5;shadow=1;fillColor=#E6FFCC;fontColor=#003366" parent="1" vertex="1">
           <mxGeometry x="-750" y="570.84" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="IHVAyDiuJe2hWlR-bfKC-46" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;ProgramacaoFk&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;id&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;insercao_id(Fk)&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;programa_id (Fk)&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;tempo_id (Fk)&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;valores_id (Fk)&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;genero_id (Fk)&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;tipo_anuncio_id (FK)&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;observacao&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#E6FFCC;fontColor=#003366" parent="1" vertex="1">
@@ -487,6 +488,9 @@
         </mxCell>
         <mxCell id="42ooAEogXCRE0jG3YjKa-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;AbrangenciaCategoria&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;id&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;tempo&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#E6FFCC;fontColor=#003366" parent="1" vertex="1">
           <mxGeometry x="-1313" y="770" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="m1IXBXaZ2yV1UNBNpph--1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-516" y="-3" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
